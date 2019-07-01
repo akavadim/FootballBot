@@ -1,0 +1,11 @@
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\bin\Debug\netcoreapp2.1\FootballBot.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\bin\Debug\netcoreapp2.1\FootballBot.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\bin\Debug\netcoreapp2.1\FootballBot.runtimeconfig.dev.json
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\bin\Debug\netcoreapp2.1\FootballBot.dll
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\obj\Debug\netcoreapp2.1\FootballBot.csprojAssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\obj\Debug\netcoreapp2.1\FootballBot.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\obj\Debug\netcoreapp2.1\FootballBot.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\obj\Debug\netcoreapp2.1\FootballBot.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\bin\Debug\netcoreapp2.1\FootballBot.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\obj\Debug\netcoreapp2.1\FootballBot.dll
+C:\Users\vadim\OneDrive\Рабочий стол\ForWorkFolder\FootballBot\FootballBot\obj\Debug\netcoreapp2.1\FootballBot.pdb
